@@ -1,0 +1,155 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+   .nav-icon {
+      @apply hover:text-primary md:text-2xl transition ease-in-out duration-500 
+               text-3xl w-full my-4 cursor-pointer;
+   }
+}
+
+html {
+   overflow: hidden;
+}
+
+* {
+   scrollbar-width: thin;
+   scrollbar-color: #cbd5e0 #f5f8fa;
+}
+
+*::-webkit-scrollbar {
+   width: 10px;
+   /* display: none; */
+}
+
+*::-webkit-scrollbar-track {
+   background: #ffffff;
+   /* display: none; */
+}
+
+*::-webkit-scrollbar-thumb {
+   background-color: #cbd5e0;
+   border-radius: 20px;
+   /* display: none; */
+
+   border: 3px solid #f5f8fa;
+}
+
+#explore-video video {
+   object-fit: cover !important;
+   width: 100vw !important;
+   height: 100vh !important;
+   opacity: 0.4 !important;
+}
+#explore-video .video-react-has-started .video-react-control-bar {
+   opacity: 0 !important;
+}
+#explore-video .video-react.video-react-fluid,
+.video-react.video-react-16-9,
+.video-react.video-react-4-3 {
+   padding: 0 !important;
+   height: 100vh !important;
+}
+
+.emoji-mart-bar:last-child {
+   display: none !important;
+}
+/* #root {
+   width: 100vw;
+} */
+
+@media only screen and (max-width: 600px) {
+   .react-pdf__Page__canvas {
+      width: 300px !important;
+      height: 500px !important;
+   }
+}
+
+#zmmtg-root {
+   display: none !important;
+   position: absolute !important;
+   background-color: transparent !important;
+}
+/* #zmmtg-root div {
+   height: 48vh !important;
+   width: 40wh !important;
+} */
+#zmmtg-root .audio-option-menu {
+   display: none;
+}
+#zmmtg-root .meeting-app {
+   height: 48vh !important;
+   width: unset !important;
+}
+#zmmtg-root .meeting-app .meeting-client-inner {
+   position: unset !important;
+   width: 100% !important;
+}
+
+#zmmtg-root #content_container {
+   width: unset !important;
+   height: 48vh !important;
+   background-color: black !important;
+}
+#zmmtg-root .av-preview-container {
+   background-color: black !important;
+}
+#zmmtg-root .joinWindowBtn {
+   background-color: rgb(9, 172, 9) !important;
+   border-color: rgb(9, 172, 9) !important;
+}
+#zmmtg-root .footer__inner {
+   justify-content: center !important;
+}
+.meeting-info-container--right-side {
+   display: none !important;
+}
+#zmmtg-root .meeting-title {
+   display: none;
+}
+button[aria-label='open the chat pane'] {
+   display: none !important;
+}
+#zmmtg-root .mini-layout-body {
+   margin: 0 !important;
+   width: 100% !important;
+   display: flex;
+   justify-content: center;
+}
+#wc-loading {
+   height: 48vh !important;
+   width: 100% !important;
+   display: flex !important;
+   justify-content: center !important;
+   align-items: center !important;
+}
+#wc-loading .loading-main {
+   position: unset !important;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   transform: unset !important;
+   -webkit-transform: unset !important;
+}
+#wc-container-left {
+   height: 48vh !important;
+
+   width: 70% !important;
+   /* top: 7% !important;
+   right: 0 !important; */
+   position: absolute !important;
+}
+#wc-container-left .video-share-layout {
+   height: 48vh !important;
+}
+#main-video {
+   height: 48vh !important;
+}
+#meetingSDKElement .jss3 {
+   z-index: 9 !important;
+}
+#transition-popper {
+   z-index: 54 !important;
+}

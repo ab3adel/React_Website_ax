@@ -1,0 +1,131 @@
+{
+   "explore": {
+      "title": "Esplora",
+      "search": "Cerca messaggi o utenti",
+      "suggest_community": {
+         "btn": "Suggerisci una nuova community",
+         "title": "Titolo",
+         "purpose": "Proposta",
+         "target": "Target",
+         "public": "Pubblica",
+         "private": "Privata",
+         "send": "Invita",
+         "submitting": "Submitting"
+      },
+      "invite_user": {
+         "invite_btn": "Invita un utente",
+         "user_email": "email",
+         "type_message": "Scrivi un messaggio",
+         "send_invite": "Invita"
+      },
+      "communty_card": {
+         "cancel_request": "Cancella",
+         "canceling": "Sto cancellando...",
+         "sending": "Sto inviando...",
+         "send_request": "Richiesta inviata",
+         "enter": "Entra nella community",
+         "private_community": "Questa community è On Application, richiedi di partecipare!",
+         "public_community": "Questa è una community pubblica, unisciti!"
+      }
+   },
+   "user_since": "utente da",
+   "last_activity": "ultima attività alle",
+   "register": {
+      "title": "Crea un account",
+      "first_name": "Nome",
+      "last_name": "Cognome",
+      "email": "Email",
+      "email_confirmation": "Conferma email",
+      "password": "Password",
+      "password_confirmation": "Conferma Password",
+      "profession": "Professione",
+      "specialization": "Specializzazione",
+      "registration_number": "N. iscrizione ordine professionale",
+      "province": "Provincia dell'attività lavorativa",
+      "activation_recived": "Ti abbiamo inviato un email per attivare il tuo account",
+      "send": "Invia",
+      "phone": "Phone",
+      "save": "Salva",
+      "alredy_registered": "Sei già registrato?",
+      "sending": "Sto inviando..."
+   },
+   "login": {
+      "title": "Login",
+      "enjoy": "Unisciti",
+      "forget_password": "Password dimenticata?",
+      "signup": "Registrati"
+   },
+   "forget_password": {
+      "title": "Password dimenticata",
+      "btn": "Reset Password"
+   },
+   "space": {
+      "title": "My Space"
+   },
+   "chat": {
+      "header": {
+         "members": "Membri",
+         "online": "Online"
+      },
+      "select_community": "Seleziona una community per iniziare una conversazione",
+      "type_message": "Scrivi il messaggio...",
+      "upload": {
+         "cancel": "Cancella",
+         "btn": "Carica un file",
+         "upload": "Carica & Invia",
+         "uploading": "Sto caricando..."
+      },
+      "drawer": {
+         "title": "Dettagli Community",
+         "article": {
+            "articles": "Articoli",
+            "all": "Tutto",
+            "videos": "Video",
+            "news": "News"
+         }
+      }
+   },
+   "notifications": {
+      "title": "Notifiche",
+      "confirm": "Conferma",
+      "hide": "Nascondi"
+   },
+   "success": "Fatto",
+   "error": "Errore",
+   "today": "Oggi",
+   "settings": {
+      "logout": "Disconnettersi",
+      "title": "Impostazioni",
+      "profile_settings": "Impostazioni del profilo",
+      "change_profile": "Modifica le impostazioni del tuo profilo",
+      "account": "Account",
+      "security": "Sicurezza",
+      "password": "Password",
+      "change_password": "Modifica la password",
+      "notifications": "Notifiche",
+      "text_messages": "Messaggi di testo",
+      "show_text": "Mostra il testo nelle notifiche",
+      "browser_notifications": "Notifiche del browser",
+      "enable_tooltip": "Le notifiche del browser sono disabilitate Puoi abilitarlo dalle notifiche del browser",
+      "disable_tooltip": "Le notifiche del browser sono abilitate Puoi disabilitarlo dalle notifiche del browser",
+      "enable_browser_notifications": "Abilita le notifiche del browser"
+   },
+   "yesterday": "Ieri",
+   "toasts": {
+      "session": "Sessione conclusa",
+      "not_logged": "Effettua il login",
+      "accept_policy": "Accetta la privacy policy",
+      "fill_field": "Alcuni campi non sono completi",
+      "file_type": "Questo tipo di file non è supportato",
+      "message_file": "Scrivi una descrizione del file ",
+      "activation_success": "Attivazione completata",
+      "activation_failure": "Ops, qualcosa è andato storto :(",
+      "cancel_request": "Non sei più unito a questa community",
+      "check_email": "Verifica la tua casella email",
+      "login_success": "Login effettuato",
+      "register_success": "Registrazione effettuata",
+      "email_taken": "Questa email è già presente",
+      "password_reset": "La tua password è stata modificata",
+      "suggest": "Hai suggerito una comminity"
+   }
+}

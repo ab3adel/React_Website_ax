@@ -1,0 +1,131 @@
+{
+   "explore": {
+      "title": "Explore",
+      "search": "Search messages or users",
+      "suggest_community": {
+         "btn": "Suggest a new community",
+         "title": "Title",
+         "purpose": "Purpose",
+         "target": "Target",
+         "public": "Public",
+         "private": "Private",
+         "send": "Send",
+         "submitting": "Submitting"
+      },
+      "invite_user": {
+         "invite_btn": "Invite user",
+         "user_email": "User email",
+         "type_message": "Type message",
+         "send_invite": "Send invite"
+      },
+      "communty_card": {
+         "cancel_request": "Cancel request",
+         "canceling": "Canceling..",
+         "sending": "Sending...",
+         "send_request": "Send request",
+         "enter": "Enter community",
+         "private_community": "This is an on application community. Send a request to partecipate.",
+         "public_community": "This is a public community, enjoy!"
+      }
+   },
+   "user_since": "User since",
+   "last_activity": "Last activity at",
+   "register": {
+      "title": "Create an account",
+      "first_name": "First name",
+      "last_name": "Last name",
+      "email": "Email",
+      "email_confirmation": "Confirm email",
+      "password": "Password",
+      "password_confirmation": "Confirm Password",
+      "profession": "Profession",
+      "specialization": "Specialization",
+      "registration_number": "N. iscrizione ordine professionale",
+      "province": "Provincia dell'attività lavorativa",
+      "activation_recived": "You Recived An Activation Email",
+      "send": "Send",
+      "phone": "Phone",
+      "save": "Save",
+      "alredy_registered": "Already have an account?",
+      "sending": "Sending"
+   },
+   "login": {
+      "title": "Login",
+      "enjoy": "Enjoy",
+      "forget_password": "Forget Password?",
+      "signup": "Sign Up"
+   },
+   "forget_password": {
+      "title": "Forget Password",
+      "btn": "Reset Password"
+   },
+   "space": {
+      "title": "My Space"
+   },
+   "chat": {
+      "header": {
+         "members": "members",
+         "online": "online"
+      },
+      "select_community": "Please select a space to start your converstion",
+      "type_message": "Type your message...",
+      "upload": {
+         "cancel": "Cancel",
+         "btn": "Upload File",
+         "upload": "Upload & Send",
+         "uploading": "Uploading..."
+      },
+      "drawer": {
+         "title": "Community Details",
+         "article": {
+            "articles": "Articles",
+            "all": "All",
+            "videos": "Videos",
+            "news": "News"
+         }
+      }
+   },
+   "notifications": {
+      "title": "Notifications",
+      "confirm": "Confirm",
+      "hide": "Hide"
+   },
+   "success": "Success",
+   "error": "Error",
+   "today": "Today",
+   "settings": {
+      "logout": "Logout",
+      "title": "Settings",
+      "profile_settings": "Profile settings",
+      "change_profile": "Change you profile settings",
+      "account": "Account",
+      "security": "Security",
+      "password": "Password",
+      "change_password": "Change password",
+      "notifications": "Notifications",
+      "text_messages": "Text messages",
+      "show_text": "Show text in notifications",
+      "browser_notifications": "Browser notifications",
+      "enable_tooltip": "Browser Notifications are disabled You can  enable it from browser notifications",
+      "disable_tooltip": "Browser Notifications are enabled You can  disable it from browser notifications",
+      "enable_browser_notifications": "Enable browser notifications"
+   },
+   "yesterday": "Yesterday",
+   "toasts": {
+      "session": "Session exired",
+      "not_logged": "Please login first.",
+      "accept_policy": "Please Accept the policy first.",
+      "fill_field": "Please fill all fields",
+      "file_type": "This file type is not allowed",
+      "message_file": "Please type a message with selected file",
+      "activation_success": "Activated Successfully",
+      "activation_failure": "Somthing went wrong",
+      "cancel_request": "You cancelled join request",
+      "check_email": "Please check your email",
+      "login_success": "Login Success",
+      "register_success": "Registered Success",
+      "email_taken": "The email has already been taken.",
+      "password_reset": "Your password has been reset",
+      "suggest": "You have Suggested new Community"
+   }
+}
